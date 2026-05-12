@@ -6,7 +6,7 @@ Most of my work sits somewhere between technical analysis and public-interest de
 
 I am especially interested in tools that make environmental and urban data easier to use — not just more technically impressive.
 
-## What I do
+## what I do
 
 - Build geospatial workflows with Python, GIS, remote sensing data, and web maps
 - Work with climate hazards, exposure, vulnerability, equity, and infrastructure datasets
@@ -15,7 +15,7 @@ I am especially interested in tools that make environmental and urban data easie
 - Explore how EO data and open data can support better local decisions
 - knoweldge mobilisation and translation through data viz and design ✨
 
-## How I think about technical work
+## how I think about technical work
 
 I like projects that sit close to real-world decisions.
 
@@ -30,7 +30,7 @@ That means I care about:
 - practical usefulness
 - communication across technical and non-technical teams
 
-## Selected directions
+## selected directions
 
 This profile is gradually becoming a home for projects related to:
 
@@ -39,6 +39,6 @@ This profile is gradually becoming a home for projects related to:
 - hazard vulnerability and risk modelling
 - automation and other explorative tools
 
-## Elsewhere
+## elsewhere
 
 - LinkedIn: https://www.linkedin.com/in/jmeblackley/
