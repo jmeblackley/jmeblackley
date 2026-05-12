@@ -1,33 +1,44 @@
-# Jamie Blackley
+# jmeblackley
 
-Remote sensing and geospatial specialist building climate-risk, equity, and decision-support tools.
+I work with geospatial data, remote sensing, and climate-risk analysis.
 
-I work with spatial data, Earth observation, web maps, dashboards, and analytical workflows that help translate complex environmental and infrastructure data into usable outputs for planning, resilience, and public-interest decision-making.
+Most of my work sits somewhere between technical analysis and public-interest decision-making: turning messy spatial datasets into maps, dashboards, workflows, and explanations that help people understand places, hazards, infrastructure, and vulnerability more clearly.
 
-## Focus areas
+I am especially interested in tools that make environmental and urban data easier to use — not just more technically impressive.
 
-- Geospatial web tools and dashboards
-- Climate hazard and risk communication
-- Remote sensing and raster analysis
-- Equity-informed spatial analysis
-- Python, ArcPy, JavaScript, TypeScript, GIS, and Google Earth Engine
+## What I do
 
-## Selected work
+- Build geospatial workflows with Python, GIS, remote sensing data, and web maps
+- Work with climate hazards, exposure, vulnerability, equity, and infrastructure datasets
+- Translate complex spatial analysis into decision-ready outputs
+- Prototype dashboards and interactive tools for planning, resilience, and communication
+- Explore how EO data and open data can support better local decisions
+- knoweldge mobilisation and translation through data viz and design ✨
 
-### BECI Knowledge Network dashboard
-Interactive ocean and ecosystem knowledge dashboard using time-aware rasters, management boundaries, and thematic map tabs.
+## How I think about technical work
 
-### RMOW HRVA dashboard
-Hazard, risk, and vulnerability dashboard for communicating climate and emergency-management information.
+I like projects that sit close to real-world decisions.
 
-### Victoria equity mapping
-Spatial equity and accessibility tool using a modern TypeScript/Python web stack.
+A good map or dashboard should not just show data. It should help someone ask a better question, see a pattern sooner, or understand the limits of the evidence in front of them.
 
-## Portfolio direction
+That means I care about:
 
-I am interested in roles and collaborations involving Earth observation, geospatial product development, climate adaptation, data visualisation, and technical communication between analysts, planners, and decision-makers.
+- clear analytical assumptions
+- readable visual outputs
+- honest uncertainty
+- repeatable methods
+- practical usefulness
+- communication across technical and non-technical teams
 
-## Links
+## Selected directions
+
+This profile is gradually becoming a home for projects related to:
+
+- climate risk reduction communication
+- remote sensing for urban and environmental analysis
+- hazard vulnerability and risk modelling
+- automation and other explorative tools
+
+## Elsewhere
 
 - LinkedIn: https://www.linkedin.com/in/jmeblackley/
-- GitHub: https://github.com/jmeblackley
