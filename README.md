@@ -4,7 +4,7 @@ I work with geospatial data, remote sensing, and climate-risk analysis.
 
 Most of my work sits somewhere between technical analysis and public-interest decision-making: turning messy spatial datasets into maps, dashboards, workflows, and explanations that help people understand places, hazards, infrastructure, and vulnerability more clearly.
 
-I am especially interested in tools that make environmental and urban data easier to use — not just more technically impressive.
+I am especially interested in tools that make environmental and urban data easier to use. 
 
 ## what I do
 
