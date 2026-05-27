@@ -42,3 +42,5 @@ This profile is gradually becoming a home for projects related to:
 ## elsewhere
 
 - LinkedIn: https://www.linkedin.com/in/jmeblackley/
+- LGeo:
+www.lgeo.co
