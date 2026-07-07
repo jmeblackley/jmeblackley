@@ -1,4 +1,4 @@
-# jmeblackley
+# jamie blackley
 
 I work with geospatial data, earth observation, and climate-risk analysis.
 
